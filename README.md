@@ -4,7 +4,7 @@
 
 - 💻 Computer Scientist to be
 - 📫 How to reach me: Gmail 
-sarasarahrafiqshaikh01@gmail.com 
+sarahrafiqshaikh01@gmail.com 
 - 🤖 Most loved languages: Java and C
 - 🔭 I’m currently improving my skills
 - 🌱 I’m currently learning Web Development and Android Development
