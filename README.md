@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-##I am Sarah Rafiq Shaikh
+## I am Sarah Rafiq Shaikh
 
+- 💻 Computer Scientist to be
+- 📫 How to reach me: Gmail 
+sarasarahrafiqshaikh01@gmail.com 
+- 🤖 Most loved languages: Java and C
+- 🔭 I’m currently improving my skills
+- 🌱 I’m currently learning Web Development and Android Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
 
 <!--
 **sarahrafiqshaikh/sarahrafiqshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
