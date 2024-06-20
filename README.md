@@ -5,8 +5,6 @@
 👩🏻‍💻 A Data Science enthusiast sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 A passionate Computer Science student at the (UBIT) University of Karachi, Pakistan<br/>
 💭 Currently learning about Data Analysis and trying to be proficient in it!
-📫 How to reach me **sarahrafiqshaikh@gmail.com**
- 
 <br/>
 
 ## 📊 GitHub Stats:
