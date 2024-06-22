@@ -9,21 +9,6 @@
 📫 Reach out to me at <a href="mailto:sarahrafiqshaikh@gmail.com">sarahrafiqshaikh@gmail.com</a> <br/>
 
 
-## 📊 GitHub Stats:
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarahrafiqshaikh&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0" alt="GitHub Streak" /></a>
-</p>
-<div align="center">
-
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sarahrafiqshaikh&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="sarahrafiqshaikh" /></p>
-
-</div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sarahrafiqshaikh&label=Profile%20views&color=ff69b4&style=plastic" alt="sarahrafiqshaikh" />
-</p>
-<br/>
-
 
 ## 💻 Languages and Tools:
 
@@ -60,6 +45,33 @@
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahrafiqshaikh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&border_radius=4.9&langs_count=6&disable_animations=false" alt="sarahrafiqshaikh" /></p>
 
 </div>
+
+## 📊 GitHub Stats:
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarahrafiqshaikh&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0" alt="GitHub Streak" /></a>
+</p>
+<div align="center">
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sarahrafiqshaikh&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="sarahrafiqshaikh" /></p>
+
+</div>
+<br/>
+
+
+## 📊 GitHub Trophies:
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div>
+        <img src="https://github-profile-trophy.vercel.app/?username=sarahrafiqshaikh&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+    </div>
+    <div>
+      <br>
+       <p align="left">
+          <img src="https://komarev.com/ghpvc/?username=sarahrafiqshaikh&label=Profile%20views&color=ff69b4&style=plastic" alt="sarahrafiqshaikh" />
+    </p>
+    </div>
+</div>
+
 ## 💻 Coding Profiles:
 
 <p align="center">  
@@ -67,6 +79,11 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
   </a>
 </p>
+
+## ❤ Followers:
+<div align= "center">
+<a href="https://github.com/sarahrafiqshaikh?tab=followers"><img src="https://img.shields.io/github/followers/sarahrafiqshaikh?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
 
 ## ➡️ Let's Connect:
 <div align="center"> 
