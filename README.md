@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/eeae6cdd322d30ea58ef009393cb3e5e.gif">
+<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/eeae6cdd322d30ea58ef009393cb3e5e.gif">
 </p>
 <h1 align="center">👋 Hi, I'm Sarah Rafiq Shaikh</h1>
 👩🏻‍💻 A Data Science enthusiast sharing about my journey and learnings in tech<br/>
