@@ -60,7 +60,13 @@
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahrafiqshaikh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&border_radius=4.9&langs_count=6&disable_animations=false" alt="sarahrafiqshaikh" /></p>
 
 </div>
+## 💻 Coding Profiles:
 
+<p align="center">  
+  <a href="https://leetcode.com/sarahrafiqshaikh/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
+  </a>
+</p>
 
 ## ➡️ Let's Connect:
 <div align="center"> 
