@@ -9,8 +9,6 @@
 <br/>
 📫 Reach out to me at <a href="mailto:sarahrafiqshaikh@gmail.com">sarahrafiqshaikh@gmail.com</a> <br/>
 
-
-
 ## 💻 Languages and Tools:
 
 <p align="center"> 
