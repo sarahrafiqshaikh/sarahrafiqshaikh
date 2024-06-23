@@ -41,7 +41,6 @@
 
 <div align="center">  
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahrafiqshaikh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&border_radius=4.9&langs_count=6&disable_animations=false" alt="sarahrafiqshaikh" /></p>
-
 </div>
 
 ## 📊 GitHub Stats:
