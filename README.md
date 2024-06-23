@@ -43,7 +43,6 @@
 </div>
 
 ## 📊 GitHub Stats:
-
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarahrafiqshaikh&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0" alt="GitHub Streak" /></a>
 </p>
