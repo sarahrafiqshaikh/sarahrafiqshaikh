@@ -62,7 +62,6 @@
 </div>
 
 ## 💻 Coding Profiles:
-
 <p align="center">  
   <a href="https://leetcode.com/sarahrafiqshaikh/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
@@ -77,7 +76,6 @@
 ## ➡️ Let's Connect:
 <div align="center"> 
   <a href = "https://www.linkedin.com/in/sarahrafiqshaikh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
 </div>
 
 
