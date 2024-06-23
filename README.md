@@ -9,7 +9,6 @@
 📫 Reach out to me at <a href="mailto:sarahrafiqshaikh@gmail.com">sarahrafiqshaikh@gmail.com</a> <br/>
 
 ## 💻 Languages and Tools:
-
 <p align="center"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -36,8 +35,6 @@
 </p>
 <br />
 <br/>
-
-
 <div align="center">  
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahrafiqshaikh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&border_radius=4.9&langs_count=6&disable_animations=false" alt="sarahrafiqshaikh" /></p>
 </div>
@@ -47,12 +44,9 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarahrafiqshaikh&theme=gotham&hide_border=true&border_radius=4.9&ring=fc0fc0" alt="GitHub Streak" /></a>
 </p>
 <div align="center">
-
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sarahrafiqshaikh&show_icons=true&locale=en&theme=gotham&hide_border=true&border_radius=4.9" alt="sarahrafiqshaikh" /></p>
-
 </div>
 <br/>
-
 
 ## 📊 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
