@@ -78,4 +78,5 @@
   <a href = "https://www.linkedin.com/in/sarahrafiqshaikh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarahrafiqshaikh&theme=react-dark&line=fc0fc0&color=ff0081)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
